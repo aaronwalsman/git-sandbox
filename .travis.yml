@@ -8,5 +8,5 @@ script:
   - nosetests -sv
 
 notifications:
-  email: false
+  email: true
 
